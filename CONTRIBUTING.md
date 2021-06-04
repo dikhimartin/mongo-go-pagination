@@ -10,7 +10,7 @@ We love your input! We want to make contributing to this project as easy and tra
 ## Any contributions you make will be under the MIT Software License
 In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Report bugs using Github's [issues](https://github.com/gobeam/mongo-go-pagination/issues)
+## Report bugs using Github's [issues](https://github.com/dikhimartin/mongo-go-pagination/issues)
 
 A relevant coding style guideline is the [Go Code Review Comments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments).
 
